@@ -8,5 +8,5 @@
 ### Tools:
 
 
-<img src='https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png' height="60" width="100"/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/300px-Pandas_logo.svg.png' height="40" width="100"/><img src='https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg' height="40" width="100"/>
+<img src='https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png' height="60" width="100"/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/300px-Pandas_logo.svg.png' height="40" width="100"/><img src='https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg' height="40" width="100"/><img src='https://anant.us/wp-content/uploads/2021/08/DBeaver-logo-300x150.png' height="40" width="100"/>
 
